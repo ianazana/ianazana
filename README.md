@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Ian!
 
-I'm a recent Electronics Engineering graduate from the Polytechnic University of the Philippines October 2024. After months of review I succesfully passed the Licensure examinations for both ECE and ECT in April 2025<p align="center">
-  <img src="https://github.com/user-attachments/assets/82e93d95-fc66-4908-9153-2cf6a3ebc639" alt="33153163_hi (1)" width="180"/>
-</p>
+I'm a recent Electronics Engineering graduate from the Polytechnic University of the Philippines October 2024. After months of review I succesfully passed the Licensure examinations for both ECE and ECT in April 2025<div align="center">
+  <img src="https://github.com/user-attachments/assets/99807abe-ea82-4c48-982f-35b30a4bf9a3/33153163_hi%20(1)" width="200"/>
+</div>
 I began exploring opportunities in tech particularly in data, software, and cloud computing. I'm excited to be part of this rapidly evolving space and eager to create or contribute to something meaningful through technology.
 
 ## 🔍 Currently Exploring
