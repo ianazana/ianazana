@@ -6,7 +6,7 @@ I'm a recent Electronics Engineering graduate from the Polytechnic University of
 I began exploring opportunities in tech particularly in data, software, and cloud computing. I'm excited to be part of this rapidly evolving space and eager to create or contribute to something meaningful through technology.
 
 ## 🔍 Currently Exploring
-- Upskilling on DataCamp (focused on Data Engineering & Cloud Services)
+- Upskilling on DataCamp (focused on Data Engineering, Cloud Services, software and AI/ML)
 - Exploring end-to-end data engineering concepts and workflows
 - Learning cloud computing fundamentals (AWS)
 - In the planning phase of a personal project to apply new skills
